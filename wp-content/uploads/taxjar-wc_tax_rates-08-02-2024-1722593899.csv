@@ -1,0 +1,6 @@
+Country Code,State Code,ZIP/Postcode,City,Rate %,Tax Name,Priority,Compound,Shipping,Tax Class
+US,CA,*,*,7.2500,Tax,1,0,0,
+US,CA,*,*,12.5000,Tax,1,0,0,
+US,CA,*,*,0.0000,Tax,1,0,1,
+US,NV,*,*,6.8500,Tax,1,0,0,
+US,WA,*,*,6.5000,Tax,1,0,0,
